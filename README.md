@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Luisin
-- 👀 I’m interested in Grêmio
-- 🌱 I’m currently learning Grêmio
-- 💞️ I’m looking to collaborate on Grêmio
-- 📫 How to reach me Grêmio
-- 😄 Pronouns: Grêmio
-- ⚡ Fun fact: Grêmio
+- 👋 Olá, eu sou @Luisin
 
 <!---
 AlunoAfricano/AlunoAfricano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
